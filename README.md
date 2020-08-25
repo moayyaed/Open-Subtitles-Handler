@@ -1,5 +1,6 @@
 # OPEN SUBTITLES HANDLER
 A library that implement most of OpenSubtitles.org XML-RPC methods. 
+Please note that this is the official repository of the program, that means official updates on source and releases will be commited/published here.
 
 ### GetHash library
 http://trac.opensubtitles.org/projects/opensubtitles/attachment/wiki/HashSourceCodes/GetHash.dll
