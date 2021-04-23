@@ -7,6 +7,8 @@ http://trac.opensubtitles.org/projects/opensubtitles/attachment/wiki/HashSourceC
 
 ### Subtitles service powered by OpenSubtitles.org 'http://www.opensubtitles.org'
 
+### [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alahadid@gmail.com&item_name=Donation&currency_code=USD&bn=PP-DonationsBF)
+
 ## Introducrion:
 OpenSubtitlesHandler is a library that implement all OpenSubtitles.org XML-RPC methods.
 This library uses internal XML-RPC generator that can generate/decode XML-RPC requests. 
