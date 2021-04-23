@@ -2,13 +2,6 @@
 A library that implement most of OpenSubtitles.org XML-RPC methods. 
 Please note that this is the official repository of the program, that means official updates on source and releases will be commited/published here.
 
-### For Donation
-Donations are accepted by sending gift codes to [contact email address](mailto:alaahadidfreeware@gmail.com), accepted codes are:
-- Steam Wallet Code (Global or Europe (Germany))
-- Amazon Gift Card Code (Germany)
-
-Thank you in advance for your generosity :)
-
 ### GetHash library
 http://trac.opensubtitles.org/projects/opensubtitles/attachment/wiki/HashSourceCodes/GetHash.dll
 
