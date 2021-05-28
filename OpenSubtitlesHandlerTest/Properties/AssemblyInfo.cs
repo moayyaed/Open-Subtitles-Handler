@@ -1,7 +1,7 @@
 ﻿/* This file is part of OpenSubtitles Handler
    A library that handle OpenSubtitles.org XML-RPC methods.
 
-   Copyright © Ala Ibrahim Hadid 2013
+   Copyright © Ala Ibrahim Hadid 2013 - 2021
 
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
@@ -15,6 +15,9 @@
 
    You should have received a copy of the GNU General Public License
    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+   Author email: mailto:alaahadidfreeware@gmail.com
+
  */
 using System.Reflection;
 using System.Runtime.CompilerServices;
@@ -28,7 +31,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("OpenSubtitlesHandlerTest")]
-[assembly: AssemblyCopyright("Copyright © Ala Ibrahim Hadid 2013")]
+[assembly: AssemblyCopyright("Copyright © Ala Ibrahim Hadid 2013 - 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
